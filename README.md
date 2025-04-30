@@ -216,6 +216,9 @@ When learning CS there are some useful sites you must know to get always informe
 - [CS50](https://www.youtube.com/user/cs50tv/videos)
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
+- [fullstackopen.com | Deep Dive into Modern Web Development](https://fullstackopen.com) : Learn React, Node.js, GraphQL, and TypeScript through hands-on projects.
+- [egghead.io | Bite-sized Web Development Video Tutorials](https://egghead.io) : Short, concise lessons for modern web development(React) by industry experts.
+
 
 
 ## Sites related to your preferred programming language (For me Java)
